@@ -9,4 +9,19 @@ Goals:
   - Have solid understanding of the User Interface Design for website and apps from scratch until functionalities
   - Refactoring existing UI designs
   - Teach some frontend development
+Curriculum:
+  - UI Design Fundamentals 
+    - White space
+    - Color
+    - Contrast
+    - Scale
+    - Alignment
+    - Typography
+    - Visual Hierarchy
+  - Layout Design
+  - Resoponsive Design and Navigation
+  - Shadows
+  - Gradients
+  - Forms
+  - UI Animation
 2. Responsive Website
