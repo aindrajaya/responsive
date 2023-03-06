@@ -1,2 +1,12 @@
 # Understanding White Space
-**White space** is the empty space between the elements in your user interface
+**White space** is the empty space between the elements in your user interface. Sometimes can be referred as *negative space*. 
+Some tips:
+  - When it comes to defining white space in CSS the primary properties is `padding`(size inside the element) and `margin`(size outside the element).
+  - To implement the white space design UI, you could increase the size of space between title and paragraph, the leading of the paragraph element.     
+    > The leading (pronounced "ledding") in a paragraph element refrest to the amount of space between each line of text, and is also known as line spacing. There are a good rule of thumb is to use a leading that is about 1.2 to 1.5 times the font size (using `em`). And the CSS property of that you can use `line-height`.
+Some Advanced Tips:
+  - *Use white space intentionally*: White space should not be seen as emptyh space, but rather as a deliberate design choice that can create balance and harmony in a layout. Use white space to separate different elements, create emphsis, and guide the user's eye through the design.
+  - *Experiment with different types of white space*: White space doesn't have to be just "white". You can use negative space (empty space with no comment), mirco white space (small spaces between text and graphics), or macro white space (large empty areas that separate content) to create different effects and visual interest in your design.
+  - *Consider the user's context*: The amount and type of white space you use should be informed by the user's context. For example, if your design will be viewed on a small mobile screen, you may want ot use less white space to maximize screen real estate. On the other hand, if your design will be viewed on a large desktop screen, you may want to use more white space to create a sense of opennes and spaciousness.
+  - *Use white space to create contrast*: White space can be used to create contrast between different elements in a design. For example, a block of text surrounded by white space will stand out more than a block of text surrounded by other design element.
+  - *Be mindful of accessibility*: While white space can be powerful desgin tool, it's important to be mindful of accessibility considertaions. Some users may have visual impairments that make it difficult to distinguish between different elements on a page, so using too much white space can make it harder for them to navigate your design. Make sure to test your design with a variety of users to ensure that it is accessible to everyone.
